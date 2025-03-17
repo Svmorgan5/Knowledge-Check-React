@@ -1,6 +1,6 @@
 # Quiz App
 
-This is a simple quiz application built with React and TypeScript. The app allows users to select a category and difficulty level, fetches a question from the Open Trivia Database, and displays the question with multiple-choice answers. Users can select an answer and see the result.
+This is a simple quiz application built with React. The app allows users to select a category and difficulty level, fetches a question from the Open Trivia Database, and displays the question with multiple-choice answers. Users can select an answer and see the result.
 
 ## Features
 
